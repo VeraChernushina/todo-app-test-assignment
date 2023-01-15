@@ -11,7 +11,6 @@ export const NewsBanner = () => {
   const { data, isLoading } = useQuery('news', async () => {
     const response = await fetch('https://newsdata.io/api/1/news?apikey=pub_156144dcdd004a820952fef75ddb3f1140c5c&country=us');
     const newsData = await response.json();
-    console.log(newsData.results)
     return newsData?.results;
   });
 
