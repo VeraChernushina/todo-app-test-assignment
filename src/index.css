@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+  margin: 0;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  color: #F4F4F4;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-family: 'Actor', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 43px;
+  margin: 0 0 17px 10px;
+}
