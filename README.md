@@ -1,13 +1,15 @@
 # Todo List App
-Test Assignment for [https://enot.io/](enot)
+Test Assignment for [enot](https://enot.io/)
+
+## [Demo](https://todo-app-test-assignment.vercel.app)
 
 ## In project I used:
-* [https://github.com/facebook/react](React 18.2)
+* [React 18.2](https://github.com/facebook/react)
 * React Context
-* [https://mui.com/](MUI)
-* [https://react-query-v3.tanstack.com/](React-Query)
+* [MUI](https://mui.com/)
+* [React-Query](https://react-query-v3.tanstack.com/)
 
-News from open API [https://newsdata.io/](newsdata.io)
+News from open API [newsdata.io](https://newsdata.io/)
 
 ## Installing and Developing
 ```
