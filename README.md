@@ -3,6 +3,8 @@ Test Assignment for [enot](https://enot.io/)
 
 ## [Demo](https://todo-app-test-assignment.vercel.app)
 
+![Todo List App Demo](/assets/demo.png)
+
 ## In project I used:
 * [React 18.2](https://github.com/facebook/react)
 * React Context
